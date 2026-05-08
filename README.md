@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple currency converter built with React and Vite that converts values using live exchange rates.
+A responsive currency converter web application using React and Vite that provides real-time currency conversion using live exchange rate APIs. Implemented dynamic currency selection, reusable components, and an interactive user interface styled with Tailwind CSS for a smooth user experience.
 
 ## Features
 
