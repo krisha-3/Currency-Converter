@@ -12,7 +12,7 @@ A responsive currency converter web application using React and Vite that provid
 ## Tech Stack
 
 - React
-- Vite
+- Vite 
 - Tailwind CSS
 - JavaScript
 
